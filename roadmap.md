@@ -7,9 +7,9 @@
 
 **SPRINT 2 TO DO LIST**
 PHASE 1 OF THE APPLICATION DEVELOPEMENT: **Build the game base(foundation)**
-1) Create a question bank: Store trivia questions, multiple choice options, and answers.
-2) Randomize questions: Select a random question each round to keep it fun and unpredictable.
-3) Track score: Keep score of how many questions the player gets right.
+1) Create a question bank: Store trivia questions, multiple choice options, and answers. **DONE**
+2) Randomize questions: Select a random question each round to keep it fun and unpredictable. **DONE**
+3) Track score: Keep score of how many questions the player gets right. **DONE**
 
 **SPRINT 3 TO DO LIST**
 PHASE 2 OF THE APPLICATION DEVELOPEMENT:** Build the User Interface **
